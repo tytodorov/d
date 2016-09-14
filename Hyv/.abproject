@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Hyv",
+  "ProjectGuid": "1b9206e3-8318-4acf-a879-49d52cd5d1de",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Hyv",
+  "DisplayName": "Hyv",
+  "Author": "",
+  "Description": "Hyv",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "4.0.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "true",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{4861823f-13d6-4b49-8366-a64ddaff65c0}",
+  "WP8ProductID": "{87ae7a66-5514-4797-80a7-184ffe40aeef}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.Hyv",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
